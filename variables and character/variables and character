@@ -1,0 +1,6 @@
+character_name = "rohit"
+charcter_age = "23"
+print ("there once a man name "+ character_name + ",")
+print "("he is "   character_age :"years old.")"             
+print ("he likes his name "  character_name: ",")
+print ("And his age perfect for job he is "  character_age: ".")
